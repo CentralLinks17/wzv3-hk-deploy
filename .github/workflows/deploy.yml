@@ -1,4 +1,4 @@
-name: Deploy WZML-X to Heroku 
+name: Deploy Central-WZML-X to Heroku 
 
 on:
   workflow_dispatch:

@@ -1,4 +1,4 @@
-FROM mysterysd/wzmlx:v3
+FROM thiyaku17/wzmlx:frozen
 
 WORKDIR /usr/src/app
 
